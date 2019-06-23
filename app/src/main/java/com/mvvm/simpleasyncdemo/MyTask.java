@@ -11,7 +11,7 @@ public class MyTask extends AsyncTask<Void,Integer,String> {
     TextView StatusLable;
     Button StartDownload;
     ProgressDialog progressDialog;
-    //dsdsfgs
+    // Created By Gaurav Pete
 
     public MyTask(Context context, TextView statusLable, Button startDownload) {
         this.context = context;
